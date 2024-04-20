@@ -5,6 +5,6 @@ Based on detailed schematic as presented in Linear Technology datasheet. Transis
 
 This is an untested work in progress. Any corrections, feedback, comments or recommendations are highly encouraged. I seriously have zero idea what I'm doing.
 
-This project is influenced in every way, shape and form by MostlyDIYrf/K7TFC's OA741D.
+This project is totally influenced by MostlyDIYrf/K7TFC's OA741D.
 
 https://github.com/mostlydiyrf/OA741D
