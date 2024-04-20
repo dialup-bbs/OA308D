@@ -3,7 +3,7 @@ All Discrete LM308 Op-Amp - The rare, classic and out of print LM308 Op-Amp usin
 
 Based on detailed schematic as presented in Linear Technology datasheet. Transistor component reference numbers are the same.
 
-This is an untested work in progress.
+This is an untested work in progress. Any corrections, feedback, comments or recommendations are highly encouraged.
 
 This project is influenced in every way, shape and form by MostlyDIYrf/K7TFC's OA741D.
 
