@@ -1,0 +1,23 @@
+Reference	Value	Datasheet	Footprint	Qty	DNP
+D1,D2	1N5711	https://www.microsemi.com/document-portal/doc_download/8865-lds-0040-datasheet	Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal	2	
+J1,J2,J5,J6,J7	Conn_01x01	~	Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical	5	
+J3	Compensation 1	~	Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical	1	
+J4	Compensation 8	~	Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical	1	
+Q1,Q2,Q3,Q4,Q5,Q6,Q14,Q15,Q17,Q18,Q20,Q21,Q24,Q25,Q26,Q27,Q29	2N3904	https://www.onsemi.com/pub/Collateral/2N3903-D.PDF	Package_TO_SOT_THT:TO-92_Inline	17	
+Q7,Q8,Q9,Q10,Q11,Q12,Q16,Q19,Q28	2N3906	https://www.onsemi.com/pub/Collateral/2N3906-D.PDF	Package_TO_SOT_THT:TO-92_Inline	9	
+Q13	NPN	https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs	Package_TO_SOT_THT:TO-92_Inline	1	
+Q22	~	https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs	Package_TO_SOT_THT:TO-92_Inline	1	
+Q23	NJFET	https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_JFETs	Package_TO_SOT_THT:TO-92_Inline	1	
+R1,R4,R13	2k	~	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical	3	
+R2,R3,R9,TR4	20k	~	-- mixed values --	4	
+R5,R7	10k	~	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical	2	
+R6	6.4k	~	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical	1	
+R8	500ohm	~	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical	1	
+R10	5.6k	~	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical	1	
+R11	1k	~	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical	1	
+R12	820ohm	~	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical	1	
+R14	240ohm	~	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical	1	
+R15	90ohm	~	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical	1	
+TR1	50k	~	Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal	1	
+TR2	60k	~	Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal	1	
+TR3	940ohm	~	Potentiometer_THT:Potentiometer_Bourns_3386C_Horizontal	1	
