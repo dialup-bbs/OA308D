@@ -5,6 +5,8 @@ Based on detailed schematic as presented in the Linear Technology datasheet. Tra
 
 This is an untested work in progress. Please do not build if you do not know what you are doing. Three prototype boards are currently under fabrication. Any corrections, feedback, comments or recommendations are highly encouraged.
 
+This is also my first KiCad project and as a builder, I am completely unexperienced as a circuit drafter/designer.
+
 This project is totally influenced by MostlyDIYrf/K7TFC's OA741D.
 
 https://github.com/mostlydiyrf/OA741D
